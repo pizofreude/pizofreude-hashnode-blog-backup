@@ -19,7 +19,7 @@ tags: data-analysis, business-analytics, exploratory-data-analysis, 2articles1we
 
 In today's fast-paced business landscape, data reigns supreme. Every decision, every strategy hinges upon the insights gleaned from data analysis. Yet, the impact of poor data analysis cannot be overstated. According to a recent study by [Gartner](https://www.gartner.com/smarterwithgartner/how-to-create-a-business-case-for-data-quality-improvement), companies lose an average of $15 million per year in losses annually due to poor data quality. This staggering statistic underscores the critical importance of robust data analysis practices in driving business success.
 
-`In the realm of engineering, the German concept of **Kochrezept**—a recipe for success—parallels the meticulous standards of the [Deutsches Institut für Normen](https://www.din.de/en) (DIN). Similarly, in the world of Business Data Analysis, there exists a blueprint for excellence, a methodical approach that transforms raw data into strategic insights.`
+In the realm of engineering, the German concept of *Kochrezept*—a recipe for success—parallels the meticulous standards of the [*Deutsches Institut für Normen*](https://www.din.de/en) [(DIN).](https://www.din.de/en) Similarly, in the world of Business Data Analysis, there exists a blueprint for excellence, a methodical approach that transforms raw data into strategic insights.
 
 As business data analysts, we are tasked with the monumental responsibility of transforming raw data into actionable insights. In this blog post, we’ll embark on a journey to unlock the potential of data analysis, guiding you through each step with clarity and precision coupled with practical example.
 

@@ -19,7 +19,7 @@ tags: data-analysis, business-analytics, exploratory-data-analysis, 2articles1we
 
 In today's fast-paced business landscape, data reigns supreme. Every decision, every strategy hinges upon the insights gleaned from data analysis. Yet, the impact of poor data analysis cannot be overstated. According to a recent study by [Gartner](https://www.gartner.com/smarterwithgartner/how-to-create-a-business-case-for-data-quality-improvement), companies lose an average of $15 million per year in losses annually due to poor data quality. This staggering statistic underscores the critical importance of robust data analysis practices in driving business success.
 
-In the realm of engineering, the German concept of *Kochrezept*—a recipe for success—parallels the meticulous standards of the [*Deutsches Institut für Normen*](https://www.din.de/en) [(DIN).](https://www.din.de/en) Similarly, in the world of Business Data Analysis, there exists a blueprint for excellence, a methodical approach that transforms raw data into strategic insights.
+In the realm of engineering, the German concept of *Kochrezept*—a recipe for success—parallels the meticulous standards of the [*Deutsches Institut für Normen*(DIN).](https://www.din.de/en) Similarly, in the world of Business Data Analysis, there exists a blueprint for excellence, a methodical approach that transforms raw data into strategic insights.
 
 As business data analysts, we are tasked with the monumental responsibility of transforming raw data into actionable insights. In this blog post, we’ll embark on a journey to unlock the potential of data analysis, guiding you through each step with clarity and precision coupled with practical example.
 
@@ -107,7 +107,9 @@ As you navigate the realm of data analytics in your own professional endeavors, 
 
 Embrace the power of data in your decision-making process. Explore further resources, engage in continuous learning, and share your data analysis challenges with the [community](https://data-storyteller.medium.com/list-of-data-analytics-online-communities-70831894aef7). Confused where to start and which community to join? Just start with any and we’ll go from there. Together, we can unlock new realms of possibility and drive meaningful change through the art of data analysis.
 
-**Warning: May cause increased data enthusiasm! Read the next post in our Data Series at your own risk.**
+---
+
+**Warning: May cause increased data enthusiasm! Read the next post in our** [**Data Series**](https://pizofreude.hashnode.dev/series/data-series) **at your own risk.**
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>

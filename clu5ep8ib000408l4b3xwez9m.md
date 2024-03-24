@@ -10,9 +10,10 @@ tags: data-analysis, business-analytics, exploratory-data-analysis, 2articles1we
 
 ---
 
-&lt;aside&gt; 💡 **Discover the foundation of our current topic by exploring our previous post** [**here**](https://pizofreude.hashnode.dev/million-dollar-question-for-data-analysis)**. It’s the perfect prelude to this discussion.**
-
-&lt;/aside&gt;
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong>Discover the foundation of our current topic by exploring our previous post </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://pizofreude.hashnode.dev/million-dollar-question-for-data-analysis" style="pointer-events: none"><strong>here</strong></a><strong>. It’s the perfect prelude to this discussion.</strong></div>
+</div>
 
 ## **Unlocking the Potential of Data Analysis**
 
@@ -108,8 +109,9 @@ Embrace the power of data in your decision-making process. Explore further resou
 
 **Warning: May cause increased data enthusiasm! Read the next post in our Data Series at your own risk.**
 
-&lt;aside&gt; 💡 **Feeling the data love?** Share the knowledge with your network and **subscribe to our newsletter** for the latest insights delivered straight to your inbox.
-
-&lt;/aside&gt;
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong>Feeling the data love?</strong> Share the knowledge with your network and <strong>subscribe to our newsletter</strong> for the latest insights delivered straight to your inbox.</div>
+</div>
 
 **Want to see more content like this?** Consider **supporting us** by hitting the **Sponsor button** if you found value in our articles! 💚

@@ -113,7 +113,7 @@ Embrace the power of data in your decision-making process. Explore further resou
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">💡 <strong>Hungry for mor</strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://pizofreude.hashnode.dev/series/data-series" style="pointer-events: none"><strong>e data?</strong> Sha</a>re the data cookies with your network and <strong>subscr</strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://pizofreude.hashnode.dev/series/data-series" style="pointer-events: none"><strong>ibe to our </strong></a><strong>newsletter</strong> for the latest insights delivered hot to your inbox.</div>
+<div data-node-type="callout-text"><strong>Hungry for more data?</strong> Share the data cookies with your network and <strong>subscribe to our newsletter</strong> for the latest insights delivered hot to your inbox.</div>
 </div>
 
-**Want to see more content like this?** Consider **supporting us** by hitting the [**Sponsor button** if you](https://pizofreude.hashnode.dev/series/data-series) found value in our articles. 💚
+**Want to see more content like this?** Consider **supporting us** by hitting the **Sponsor button** if you found value in our articles. 💚

@@ -105,11 +105,11 @@ In the ever-evolving landscape of business analytics, the ability to harness the
 
 As you navigate the realm of data analytics in your own professional endeavors, remember the transformative impact of informed decision-making. Whether you're optimizing sales strategies or predicting market trends, let data be your guiding light in the pursuit of business excellence.
 
-Embrace the power of data in your decision-making process. Explore further resources, engage in continuous learning, and share your data analysis challenges with the [community](https://data-storyteller.medium.com/list-of-data-analytics-online-communities-70831894aef7). Confused where to start and which community to join? Just start with any and we’ll go from there. Together, we can unlock new realms of possibility and drive meaningful change through the art of data analysis.
+Embrace the power of data in your decision-making process. Explore further resources, engage in continuous learning, and share your data analysis challenges with the [community](https://data-storyteller.medium.com/list-of-data-analytics-online-communities-70831894aef7). Confused where to start and which community to join? Just start with any and we’ll go from there. Together, we can unlock new realms of possibility and drive meaningful change through the art of data analysis. We'll cover Business Analysis and Process Management before diving deeper into practical business data analysis. This way, we can focuses on optimizing processes first, before leveraging data to identify trends and opportunities for improvement. Both works in tandem.
 
 ---
 
-**Warning: May cause increased data enthusiasm. Read the next post in our** [**Data Series**](https://pizofreude.hashnode.dev/series/data-series) **at your own risk.**
+**Warning: May cause increased data enthusiasm. Read the next post in our**[**Data Series**](https://pizofreude.hashnode.dev/series/data-series)**at your own risk.**
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>

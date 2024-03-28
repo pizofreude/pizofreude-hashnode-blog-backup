@@ -109,7 +109,7 @@ Embrace the power of data in your decision-making process. Explore further resou
 
 ---
 
-**Warning: May cause increased data enthusiasm. Read the next post in our**[**Data Series**](https://pizofreude.hashnode.dev/series/data-series)**at your own risk.**
+**Warning: May cause increased data enthusiasm. Read the next post in our** [**Data Series**](https://pizofreude.hashnode.dev/series/data-series) **at your own risk.**
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>

@@ -317,13 +317,9 @@ Now, it's time to create some visuals. We'll use Excel's pivot tables and charts
         
         ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1714724935399/7c1aab32-08db-415a-8739-c9ab67a1e827.jpeg align="center")
         
-          
-        
         * **By Chart:**
             
             ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1714725215435/d7000794-694c-4cb4-90af-9a75df5e7a80.jpeg align="center")
-            
-              
             
         * **Revenue Breakdown:** Charts illustrating revenue by state, store, product category, and top 10 customers.
             
@@ -464,7 +460,7 @@ Overall, the dashboard empowers management to make data-driven decisions about s
 
 ---
 
-**Warning: May cause increased data enthusiasm. Read the next post in our** [**Data Series**](https://pizofreude.hashnode.dev/series/data-series) **at your own risk.**
+**Warning: May cause increased data enthusiasm. Read the next post in our**[**Data Series**](https://pizofreude.hashnode.dev/series/data-series)**at your own risk.**
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>

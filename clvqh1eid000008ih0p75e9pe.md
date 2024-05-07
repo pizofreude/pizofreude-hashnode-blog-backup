@@ -17,6 +17,8 @@ tags: postgresql, data-analysis, business, sql, excel, tableau, business-analyti
 
 <details data-node-type="hn-details-summary"><summary>TL;DR</summary><div data-type="detailsContent">Business Data Analytics is used to create an executive dashboard for Cycling Superstores, enabling informed data-driven decisions to optimize strategies and accelerate long-term success. The process involves data analysis methods, SQL queries, Excel data cleaning and analysis, and Tableau dashboard creation. Insights gained include identifying sales trends, revenue breakdowns, top-performing customers, and sales reps. The interactive dashboard empowers executives to make informed decisions based on real-time data analysis.</div></details>
 
+<iframe height="250" width="100%" src="https://suno.com/embed/6088f07f-62b1-47b2-b279-571530c3ade7"></iframe>
+
 Welcome back, cycling enthusiasts and business aficionados alike. In our previous [blog](https://pizofreude.hashnode.dev/business-analysis-process-management-for-cycling-superstores), we witnesssed the transformative power of Business Analysis & Process Management (BA&PM) in optimizing Cycling Superstores' operations. We learned how BA&PM equips us with the tools and strategies to navigate the challenging terrain of business processes and achieve peak performance iteratively.
 
 And the journey doesn't stop there. Just like a cyclist meticulously analyzes their performance metrics to achieve peak fitness, Cycling Superstores needs to leverage the power of data to gain a deeper understanding of our customers, operations, and market landscape.

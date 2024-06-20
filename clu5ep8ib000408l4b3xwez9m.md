@@ -115,7 +115,7 @@ Confused where to start and which community to join? Just start with any and weâ
 
 ---
 
-**Warning: May cause increased data enthusiasm. Read the next post in our** [**Data Series**](https://pizofreude.hashnode.dev/series/data-series) **at your own risk.**
+**Warning: May cause increased data enthusiasm. Read the next post in** [**Data Series**](https://pizofreude.hashnode.dev/series/data-series) **at your own risk.**
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">ğŸ’¡</div>

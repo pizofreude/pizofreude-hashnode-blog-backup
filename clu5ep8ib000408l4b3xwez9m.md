@@ -1,5 +1,5 @@
 ---
-title: "Data-Driven Decisions Made Easy: Your Guide for Business Growth"
+title: "Data-Driven Decisions Made Easy: Simple Guide for Business Growth"
 seoTitle: "Business Growth Blueprint: 4 Steps to Data-Driven Decisions"
 seoDescription: "Stop guessing, start thriving! This guide unveils a 4-step framework for data analysis to unlock actionable insights & drive business growth."
 datePublished: Sun Mar 24 2024 10:58:59 GMT+0000 (Coordinated Universal Time)
@@ -17,17 +17,19 @@ tags: data-analysis, business-analytics, exploratory-data-analysis, 2articles1we
 
 ## **Unlocking the Potential of Data Analysis**
 
-In today's fast-paced business landscape, data reigns supreme. Every decision, every strategy hinges upon the insights gleaned from data analysis. Yet, the impact of poor data analysis cannot be overstated. According to a recent study by [Gartner](https://www.gartner.com/smarterwithgartner/how-to-create-a-business-case-for-data-quality-improvement), companies lose an average of $15 million per year in losses annually due to poor data quality. This staggering statistic underscores the critical importance of robust data analysis practices in driving business success.
+In today's fast-paced business landscape, data reigns supreme.
+
+Every decision, every strategy hinges upon the insights gleaned from data analysis. Yet, the impact of poor data analysis cannot be overstated. According to a recent study by [Gartner](https://www.gartner.com/smarterwithgartner/how-to-create-a-business-case-for-data-quality-improvement), companies lose an average of $15 million per year in losses annually due to poor data quality. This staggering statistic underscores the critical importance of robust data analysis practices in driving business success.
 
 In the realm of engineering, the German concept of *Kochrezept*—a recipe for success—parallels the meticulous standards of the [*Deutsches Institut für Normen*(DIN).](https://www.din.de/en) Similarly, in the world of Business Data Analysis, there exists a blueprint for excellence, a methodical approach that transforms raw data into strategic insights.
 
-As business data analysts, we are tasked with the monumental responsibility of transforming raw data into actionable insights. In this blog post, we’ll embark on a journey to unlock the potential of data analysis, guiding you through each step with clarity and precision coupled with practical example.
+In this blog post, we’ll embark on a journey to unlock the potential of data analysis with practical example.
 
 ![Data Analysis Memes. What my friends think I do vs. What I think I do.](https://cdn.hashnode.com/res/hashnode/image/upload/v1711277112388/393bca98-aa21-4abc-a67d-d77d871f9429.gif align="center")
 
 ## **Step 1: Defining Project Goals and Data Collection**
 
-Before diving into the realm of data analysis, it is imperative to clearly define our project goals. What are we seeking to achieve? What insights are we hoping to uncover? By establishing a clear roadmap from the outset, we lay the foundation for a successful analysis.
+Before diving into the realm of data analysis, it is imperative to clearly define our project goals. What are we seeking to achieve? What insights are we hoping to uncover? By establishing a clear problem statement from the outset, we lay the foundation for a successful analysis.
 
 In our hypothetical scenario, let us imagine ourselves as analysts at a leading bicycle retail company. Our objective? To create a comprehensive sales dashboard for the executive team, providing invaluable insights into sales performance and customer behavior.
 
@@ -48,7 +50,11 @@ The first step in our journey involves data collection as explained in the video
 
 ## **Step 2: Data Cleaning and Preparation**
 
-With our raw data in hand, the next crucial step is data cleaning and preparation. Often likened to polishing a rough diamond, this phase involves removing inconsistencies, addressing missing values, and standardizing formats to ensure uniformity. Excel has 1,048,576 rows by 16,384 columns, [However, the practical limit is often lower, as performance can degrade with very large datasets or complex calculations](https://support.microsoft.com/en-us/office/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3). Based on my experience, if your data does not exceed half the size of Excel total rows, you’re better of cleaning it using Excel for faster result. Otherwise, SQL or Python is the way to go without loosing too much time in computing time. Tom Mitchell seems to agree with me:
+With our raw data in hand, the next crucial step is data cleaning and preparation. Often likened to polishing a rough diamond, this phase involves removing inconsistencies, addressing missing values, and standardizing formats to ensure uniformity.
+
+Excel has 1,048,576 rows by 16,384 columns, [However, the practical limit is often lower, as performance can degrade with very large datasets or complex calculations](https://support.microsoft.com/en-us/office/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3).
+
+Based on my experience, if your data does not exceed half the size of Excel total rows, you’re better of cleaning it using Excel for faster result. Otherwise, SQL or Python is the way to go without loosing too much time in computing time. Tom Mitchell seems to agree with me:
 
 %[https://twitter.com/TomMitchellData/status/1767129113351819558?s=20] 
 
@@ -65,7 +71,7 @@ Let’s say we default to SQL. In our SQL script, we meticulously comb through t
 
 ## **Step 3: Exploratory Data Analysis (EDA) and Visualization**
 
-Armed with a clean dataset, we can then embark on the exploratory data analysis (EDA) phase, delving deep into the intricacies of our data to uncover meaningful patterns and trends. Visualization tools such as Excel and Tableau serve as our trusted companions, allowing us to transform raw numbers into insightful charts and graphs. Open-source enthusiast? Look for Metabase, Superset and Redash. Pythonista? Hop on board, you’re very well welcomed and well-equipped. In fact, you’re gonna love this:
+Armed with a clean dataset, we can start on the exploratory data analysis (EDA) phase, delving deep into the intricacies of our data to uncover meaningful patterns and trends. Visualization tools such as Excel and Tableau serve as our trusted companions, allowing us to transform raw numbers into insightful charts and graphs. Open-source enthusiast? Look for Metabase, Superset and Redash. Pythonista? Hop on board, you’re very well welcomed and well-equipped. In fact, you’re gonna love this:
 
 %[https://youtu.be/Liv6eeb1VfE?si=U0Fw88WMbT7JJbc2] 
 
@@ -82,7 +88,7 @@ In our sales dashboard, we employ pivot tables and charts to visualize key metri
 
 ## **Step 4: Advanced Analytics and Predictive Modeling**
 
-As our journey nears its culmination, we venture into the realm of advanced analytics and predictive modeling. Armed with sophisticated tools and techniques, we can unravel the underlying drivers of sales performance and forecast future trends with precision.
+Moving on to advanced analytics and predictive modeling. Armed with sophisticated tools and techniques, we can unravel the underlying drivers of sales performance and forecast future trends with precision.
 
 ![Credits to Qlik: Predictive Modeling.](https://cdn.hashnode.com/res/hashnode/image/upload/v1711277556661/468cd4bc-f547-422d-8414-382335eed6bb.jpeg align="center")
 
@@ -109,7 +115,7 @@ Embrace the power of data in your decision-making process. Explore further resou
 
 ---
 
-**Warning: May cause increased data enthusiasm. Read the next post in our** [**Data Series**](https://pizofreude.hashnode.dev/series/data-series) **at your own risk.**
+**Warning: May cause increased data enthusiasm. Read the next post in our**[**Data Series**](https://pizofreude.hashnode.dev/series/data-series)**at your own risk.**
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>

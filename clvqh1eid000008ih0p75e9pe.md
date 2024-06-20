@@ -15,19 +15,21 @@ tags: postgresql, data-analysis, business, sql, excel, tableau, business-analyti
 <div data-node-type="callout-text"><strong>Discover the foundation of our current topic by exploring our previous post </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://pizofreude.hashnode.dev/business-analysis-process-management-for-cycling-superstores" style="pointer-events: none"><strong>here</strong></a><strong>. It's the perfect prelude to this discussion.</strong></div>
 </div>
 
-<details data-node-type="hn-details-summary"><summary>TL;DR</summary><div data-type="detailsContent">Business Data Analytics is used to create an executive dashboard for Cycling Superstores, enabling informed data-driven decisions to optimize strategies and accelerate long-term success. The process involves data analysis methods, SQL queries, Excel data cleaning and analysis, and Tableau dashboard creation. Insights gained include identifying sales trends, revenue breakdowns, top-performing customers, and sales reps. The interactive dashboard empowers executives to make informed decisions based on real-time data analysis.</div></details>
+<details data-node-type="hn-details-summary"><summary>TL;DR</summary><div data-type="detailsContent">Business Data Analytics is used to create an executive dashboard for Cycling Superstores, enabling informed data-driven decisions to optimize strategies and accelerate long-term success. The process involves data analysis methods, SQL queries, Excel data cleaning and analysis, and Tableau dashboard creation. Insights gained include identifying sales trends, revenue breakdowns, top-performing customers &amp; sales reps. The interactive dashboard empowers executives to make informed decisions based on real-time data analysis.</div></details>
 
-Welcome back, cycling enthusiasts and business aficionados alike. In our previous [blog](https://pizofreude.hashnode.dev/business-analysis-process-management-for-cycling-superstores), we witnesssed the transformative power of Business Analysis & Process Management (BA&PM) in optimizing Cycling Superstores' operations. We learned how BA&PM equips us with the tools and strategies to navigate the challenging terrain of business processes and achieve peak performance iteratively.
+Welcome back, cycling enthusiasts and business aficionados alike. In our previous [blog](https://pizofreude.hashnode.dev/business-analysis-process-management-for-cycling-superstores), we witnesssed the transformative power of Business Analysis & Process Management (BA&PM) in optimizing Cycling Superstores' operations. We learnt how BA&PM equips us with the tools and strategies to navigate the challenging terrain of business processes and achieve peak performance iteratively.
 
-And the journey doesn't stop there. Just like a cyclist meticulously analyzes their performance metrics to achieve peak fitness, Cycling Superstores needs to leverage the power of data to gain a deeper understanding of our customers, operations, and market landscape.
+And the journey doesn't stop there. Just like a cyclist meticulously analyzes their performance metrics to achieve peak fitness, Cycling Superstores needs to leverage the power of data to gain a deeper understanding of our customers, operations & market landscape.
 
-This is where Business Data Analytics (BDA) steps in. Buckle up and prepare to shift gears, because in this blog, we'll unveil the practical of Executive Dashboards – a cyclist's GPS for navigating the ever-changing world of business. Here, we'll explore how Cycling Superstores can harness the power of data visualization to make informed data-driven decisions, optimize strategies, and ultimately, accelerate our journey towards long-term success. We’ll be using SQL, Excel, and Tableau for this project.
+This is where Business Data Analytics (BDA) steps in. In this blog, we'll unveil the practical of Executive Dashboard with Cycling Superstores. We'll explore how Cycling Superstores can harness the power of data visualization to make informed data-driven decisions, optimize strategies thus accelerate our journey towards long-term success. We’ll be using SQL, Excel & Tableau Public for this project.
 
 > *“The secret of change is to focus all your energy not on fighting the old but on building the new.” — Socrates*
 
 ## Data Analysis Methods
 
-We’re going to create an executive dashboard for sales at our aspiring Cycling Superstores, a bicycle retail outlets company of from our childhood dream. After all, as an avid cyclist what’s not to like when generating income from personal hobbies. First, by pulling out the relevant data from the company's database using SQL and then defining the business goals and laying out a plan to find a solution towards the aims. Second, collecting and gathering data from various sources based on set priorities. Third, cleaning the data to remove unwanted redundant and missing values that may impede analysis. Fourth, exploring and analyzing the data using business intelligence tools, data visualization, data mining techniques and predictive modeling. Finally, interpreting the results to gain insights.
+We're creating an executive dashboard for sales at Cycling Superstores, a bicycle retail outlets company. After all, as an avid cyclist what’s not to like when generating income from personal hobbies.
+
+First, by pulling out the relevant data from the company's database using SQL and then defining the business goals and laying out a plan to find a solution towards the aims. Second, collecting and gathering data from various sources based on set priorities. Third, cleaning the data to remove unwanted redundant and missing values that may impede analysis. Fourth, exploring and analyzing the data using business intelligence tools, data visualization, data mining techniques and predictive modeling. Finally, interpreting the results to gain insights.
 
 ![Data analysis process: Ask, Prepare, Process, Analyze, Share, Act.](https://cdn.hashnode.com/res/hashnode/image/upload/v1714645111730/7042a46e-d1a2-4fc2-909f-2148dd87c781.jpeg align="center")
 
@@ -37,34 +39,34 @@ We’re going to create an executive dashboard for sales at our aspiring Cycling
 
 **Project Title:** Building an Interactive Sales Dashboard for Improved Decision-Making at Cycling Superstores
 
-**Problem Statement:** Cycling Superstores lacked a centralized and user-friendly platform to analyze sales data. This made it difficult for executives to gain insights into sales performance across various metrics like product category, brand, store location, and customer demographics.
+**Problem Statement:** Cycling Superstores lacked a centralized and user-friendly platform to analyze sales data. This made it difficult for executives to gain insights into sales performance across various metrics like product category, brand, store location & customer demographics.
 
 **Data Sources:**
 
-* Relational Database: The project utilized data from Cycling Superstores' internal relational database containing sales transactions, customer information, product details, and store locations.
+* Relational Database: The project utilized data from Cycling Superstores' internal relational database containing sales transactions, customer information, product details & store locations.
     
 
 ### **2\. Methodology**
 
 The project involved the following steps:
 
-* **Data Acquisition:** SQL queries were written to extract relevant data from the relational database, including order details, customer information, product categories, brands, store locations, and sales rep IDs.
+* **Data Acquisition:** SQL queries were written to extract relevant data from the relational database, including order details, customer information, product categories, brands, store locations & sales rep IDs.
     
 * **Data Cleaning:** The extracted data was reviewed and cleaned in Excel to address any missing values, inconsistencies, or redundancies.
     
-* **Data Analysis:** Pivot tables and charts were used in Excel to analyze sales trends by year, month, state, store, brand, product category, customer, and sales rep.
+* **Data Analysis:** Pivot tables and charts were used in Excel to analyze sales trends by year, month, state, store, brand, product category, customer & sales rep.
     
 * **Data Visualization:**
     
-    * Excel: Charts like line charts, pie charts, and bar charts were created to present key sales insights in Excel.
+    * Excel: Charts like line charts, pie charts & bar charts were created to present key sales insights in Excel.
         
-    * Tableau: Interactive visualizations like line charts, map charts, pie charts, tree maps, and bar charts were developed in Tableau for a more dynamic and informative dashboard.
+    * Tableau: Interactive visualizations like line charts, map charts, pie charts, tree maps & bar charts were developed in Tableau Public for a more dynamic and informative dashboard.
         
 * **Dashboard Creation:**
     
-    * Excel: A basic sales dashboard was built in Excel, combining various charts with slicers to allow for interactive filtering by year, state, and store name.
+    * Excel: A basic sales dashboard was built in Excel, combining various charts with slicers to allow for interactive filtering by year, state & store name.
         
-    * Tableau: An interactive dashboard was created in Tableau, enabling executives to explore sales data by year, state, store, brand, product category, customer, and sales rep. Action filters were implemented to ensure all charts update dynamically based on user selections.
+    * Tableau: An interactive dashboard was created in Tableau, enabling executives to explore sales data by year, state, store, brand, product category, customer & sales rep. Action filters were implemented to ensure all charts update dynamically based on user selections.
         
 
 ### **3\. Results and Insights**
@@ -73,24 +75,24 @@ The project resulted in several key insights:
 
 * Seasonal trends were identified in sales data, highlighting peak sales periods.
     
-* Revenue breakdown by state, store, brand, and product category revealed valuable information for targeted marketing campaigns and inventory management.
+* Revenue breakdown by state, store, brand & product category revealed valuable information for targeted marketing campaigns and inventory management.
     
 * Top-performing customers and sales reps were identified, allowing for recognition and reward programs to boost customer loyalty and sales motivation.
     
 
-**Overall, the interactive sales dashboards empowered executives at Cycling Superstores to make data-driven decisions regarding product offerings, marketing strategies, inventory allocation, and sales team performance.**
+**Overall, the interactive sales dashboards empowered executives at Cycling Superstores to make data-driven decisions regarding product offerings, marketing strategies, inventory allocation & sales team performance.**
 
 ### **4\. Skills and Tools**
 
-* Data Wrangling (Data Cleaning and Transformation)
+* Data Wrangling (Data Cleaning & Transformation)
     
 * SQL Querying via PostgreSQL
     
-* Data Visualization (Excel Charts, Tableau Dashboards)
+* Data Visualization (Excel Charts & Tableau Dashboards)
     
 * Business Intelligence Tools (Tableau)
     
-* VS Code as Code Editor with SQLTools extension
+* VS Code as Code Editor with [SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools) extension
     
 
 ### **5\. Sharing Information & Action**
@@ -106,7 +108,7 @@ First, we need to understand what information management wants to see in the P**
 
 * Total revenue by year and month
     
-* Revenue breakdown by state, store, brand, product category, and sales rep
+* Revenue breakdown by state, store, brand, product category & sales rep
     
 * Top performing customers
     
@@ -240,7 +242,7 @@ JOIN sales.order_items ite
 ON ord.order_id = ite.order_id
 ```
 
-**Added a**`GROUP BY` clause at the end of the query. This is necessary because we’re using aggregate functions (`SUM`) on the `quantity` and `quantity * list_price` columns. We need to tell SQL how to group the other non-aggregated columns (`order_id`, `full_name`, `city`, `state`, `order_date`). In this case, we’re grouping by each unique order, along with the customer’s name and location, and the order date.
+**Added a** `GROUP BY` clause at the end of the query. This is necessary because we’re using aggregate functions (`SUM`) on the `quantity` and `quantity * list_price` columns. We need to tell SQL how to group the other non-aggregated columns (`order_id`, `full_name`, `city`, `state`, `order_date`). In this case, we’re grouping by each unique order, along with the customer’s name and location, and the order date.
 
 ```sql
 GROUP BY ord.order_id, customers, cus.city, cus.state, ord.order_date
@@ -293,7 +295,7 @@ For ease of syncing dataset from Postgres to other platforms such as MS Excel, w
 CREATE TABLE public.cc_dashboard AS
 ```
 
-Our dataset is comprehensively structured and includes several fields: **Order IDs**, **Customer Names** (combining first and last names), **Customer Location** (city and state), **Order Dates**, **Total Units Sold** per order, **Revenue Generated** per order, **Product Names**, **Bike Brands**, **Sales Store Location**, and the **Sales Representative** associated with each transaction.
+Our dataset is comprehensively structured and includes several fields: **Order IDs**, **Customer Names** (combining first and last names), **Customer Location** (city and state), **Order Dates**, **Total Units Sold** per order, **Revenue Generated** per order, **Product Names**, **Bike Brands**, **Sales Store Location** & **Sales Representative** associated with each transaction.
 
 We can move on the Step 3 of the data analysis process, which is crucial for ensuring the integrity of the sale records, involves **cleansing the data** to eliminate any **unwanted, redundant, or erroneous values** that could hinder the analysis.
 
@@ -373,7 +375,7 @@ We'll import the Excel data set into [Tableau Desktop Public Edition](https://ww
     
 * **Revenue by Product Category:** Treemap for revenue breakdown by product category.
     
-* **Top Customers and Revenue per Sales Rep:** Bar charts with a parameter filter to control the number of displayed key figure[s.](https://www.tableau.com/en-gb/products/public/download)
+* **Top Customers and Revenue per Sales Rep:** Bar charts with a parameter filter to control the number of displayed key figures.
     
 
 ### **Adding Interactivity in Tableau**
@@ -382,11 +384,11 @@ We'll create action filters in Tableau to allow management to explore the data d
 
 **Final Touches and Sharing**
 
-We'll finalize the design of both the Excel and Tableau dashboards, ensuring they are visually appealing and user-friendly. Finally, we'll upload the Tableau dashboard to an online server for easy access and sharing.
+We'll finalize the design of both the Excel and Tableau dashboards, ensuring they are visually appealing and user-friendly. Finally, we'll upload the Tableau dashboard to Tableau Public for easy access and sharing.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1714726776969/c7b9dc6a-b52e-41e9-852f-bbbf22e4c7b2.png align="center")
 
-For interactive Tableau Dashboard, feel free to visit [Tableau Public](https://public.tableau.com/views/CyclingSuperstoresExecutiveDashboard/CyclingSuperstoresDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link).
+For interactive Cycling Superstores Tableau Dashboard, feel free to visit [Tableau Public](https://public.tableau.com/views/CyclingSuperstoresExecutiveDashboard/CyclingSuperstoresDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link).
 
 Based on the findings from the dashboard and discussion with stakeholders, we can suggests some potential areas for further investigation:
 
@@ -454,13 +456,13 @@ Including some of this data could enable a richer analysis of sales performance,
 
 This comprehensive portfolio showcases business data analytics using SQL, create insightful visualizations with Excel and Tableau, and build interactive dashboards to communicate complex information effectively.
 
-Overall, the dashboard empowers management to make data-driven decisions about sales strategies, resource allocation, marketing campaigns, and potentially customer relationship management.
+Overall, the dashboard empowers management to make data-driven decisions about sales strategies, resource allocation, marketing campaigns & customer relationship management.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1714727808106/0c0d0661-6bc9-4700-b882-adf1e4658117.gif align="center")
 
 ---
 
-**Warning: May cause increased data enthusiasm. Read the next post in our**[**Data Series**](https://pizofreude.hashnode.dev/series/data-series)**at your own risk.**
+**Warning: May cause increased data enthusiasm. Read the next post in** [**Data Series**](https://pizofreude.hashnode.dev/series/data-series) **at your own risk.**
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
